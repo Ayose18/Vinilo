@@ -1,0 +1,14 @@
+{
+  "name": "disco",
+  "version": "1.0.0",
+  "description": "Disco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayose",
+  "license": "ISC",
+  "devDependencies": {
+    "postcss-cli": "^8.3.1"
+  }
+}

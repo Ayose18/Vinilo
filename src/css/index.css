@@ -1,0 +1,21 @@
+
+.portada {
+    position:absolute;
+    top: auto;
+    height: 250px;
+    width: 250px;
+
+  }
+
+.disco {
+   position:absolute;
+    left: 200px;
+    height:250px;
+    width:250px;
+    z-index: -1;
+    background-color: black;
+    border-radius: 50%;
+
+}
+
+
